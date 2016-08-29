@@ -10,7 +10,7 @@
 #SBATCH --mail-user=Choongwan.Woo@colorado.edu
 
 #Names the job
-#SBATCH -
+#SBATCH --job-name test
 
 
 
